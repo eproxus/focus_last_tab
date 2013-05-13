@@ -1,8 +1,8 @@
 Focus Last Tab for Sublime Text
 ===============================
 
-Always focus the last tab with Ctrl+9 or ⌘+9 in Sublime Text 2 or 3, just
-like in your favorite browser!
+Always focus the last tab with ⌘+9 (on OS X) or Ctrl+9 (on Windows and Linux)
+in Sublime Text 2 or 3, just like in your favorite browser!
 
 Installation
 ------------
