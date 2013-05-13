@@ -13,3 +13,15 @@ Clone this repository into your `Packages` folder (Sublime Text 3 on OS X):
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 git clone git://github.com/eproxus/focus_last_tab.git "Focus Last Tab"
 ```
+
+Customize
+---------
+
+To customize, add your desired key binding to _Preferences -> Key Bindings -
+User_:
+
+```json
+[
+    { "keys": ["ctrl+end"], "command": "last_view" }
+]
+```
