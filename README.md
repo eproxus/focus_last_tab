@@ -17,8 +17,8 @@ git clone git://github.com/eproxus/focus_last_tab.git "Focus Last Tab"
 Customize
 ---------
 
-To customize, add your desired key binding to _Preferences -> Key Bindings -
-User_:
+To customize, add your desired key binding to
+_Preferences -> Key Bindings - User_:
 
 ```json
 [
@@ -26,8 +26,8 @@ User_:
 ]
 ```
 
-To keep the default key binding, add the following to _Preferences -> Settings
-- User_:
+To keep the default key binding, add the following to
+_Preferences -> Settings - User_:
 
 ```json
 {
