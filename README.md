@@ -25,3 +25,12 @@ User_:
     { "keys": ["ctrl+end"], "command": "last_view" }
 ]
 ```
+
+To keep the default key binding, add the following to _Preferences -> Settings
+- User_:
+
+```json
+{
+    "focus_last_tab_override": false
+}
+```
