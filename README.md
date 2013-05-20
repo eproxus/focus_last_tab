@@ -7,7 +7,11 @@ in Sublime Text 2 or 3, just like in your favorite browser!
 Installation
 ------------
 
-Clone this repository into your `Packages` folder (Sublime Text 3 on OS X):
+Install via [Package Control][1] to automatically keep up to date with new
+versions.
+
+To install manually, clone this repository into your `Packages` folder (e.g.
+Sublime Text 3 on OS X):
 
 ```sh
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
@@ -34,3 +38,5 @@ _Preferences -> Settings - User_:
     "focus_last_tab_override": false
 }
 ```
+
+[1]: http://wbond.net/sublime_packages/package_control "Package Control"
